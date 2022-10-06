@@ -1,0 +1,29 @@
+.header{
+    font-size: 40px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 50%;
+}
+.subheader{
+    font-size: 34px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.bodyText{
+    font-size: 24px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.list{
+    display:inline-block;
+    inline-size: 600px;
+    overflow-wrap:break-word;
+    text-align: left;
+}
